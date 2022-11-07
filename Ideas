@@ -1,0 +1,32 @@
+Ideas for next year - with time to develop - also see http://ctf101.org
+
+File/Memory Forensics
+- File hashes
+- Data in file headers
+- File execution date/time
+- Memory Dumps or logs
+-- Find when shell access was obtained
+-- Find when malicious software was installed
+-- Find network addresses accessed (pivot)
+-- Find network share users accessed (pivot)
+-- Find printer install
+-- Find malicious UID SID
+-- Find keylogger install path
+Network Forensics
+- PCAP file analysis
+Ransomware
+- Number of bitcoins demanded for ransom
+Crypto
+- Simple ciphers
+Policy
+- HIPAA Security & Privacy Rule questions
+DevSecOps
+- Analyze APKs
+- Strings in an exe
+Web Hacking
+- HTML Source code
+Images
+- EXIF data
+- Steganography
+Executable Compromise
+- Buffer overflows to execute code
